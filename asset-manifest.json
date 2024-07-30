@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/App-clima/static/css/main.dcc44ca7.css",
+    "main.js": "/App-clima/static/js/main.c7499093.js",
+    "static/media/arbol-cayendo-hojas.gif": "/App-clima/static/media/arbol-cayendo-hojas.ecc3186b1d2241154d65.gif",
+    "index.html": "/App-clima/index.html",
+    "main.dcc44ca7.css.map": "/App-clima/static/css/main.dcc44ca7.css.map",
+    "main.c7499093.js.map": "/App-clima/static/js/main.c7499093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcc44ca7.css",
+    "static/js/main.c7499093.js"
+  ]
+}
